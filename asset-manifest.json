@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmi_calci/static/css/main.142826cd.css",
+    "main.js": "/bmi_calci/static/js/main.7948e6ea.js",
+    "static/js/787.feed19bb.chunk.js": "/bmi_calci/static/js/787.feed19bb.chunk.js",
+    "index.html": "/bmi_calci/index.html",
+    "main.142826cd.css.map": "/bmi_calci/static/css/main.142826cd.css.map",
+    "main.7948e6ea.js.map": "/bmi_calci/static/js/main.7948e6ea.js.map",
+    "787.feed19bb.chunk.js.map": "/bmi_calci/static/js/787.feed19bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142826cd.css",
+    "static/js/main.7948e6ea.js"
+  ]
+}
